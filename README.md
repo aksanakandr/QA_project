@@ -1,6 +1,6 @@
 # Python Selenium Automation Project
 
-This project uses Selenium, and Python to create simple but powerful automation project.
+This project uses Selenium  and Python, Pytest
 
 ## Table of Contents
 
